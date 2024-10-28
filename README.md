@@ -37,11 +37,11 @@ I'm passionate about uncovering biological insights through data and currently w
 </div>
 
 ### 📝 Latest Scientific Works
-- **[Machine Learning in Biological Data]([#](https://www.medrxiv.org/content/10.1101/2024.08.09.24310239v1))**
-- **[ViralFlow v1.0—a computational workflow for viral genomic surveillance]([#](https://academic.oup.com/nargab/article/6/2/lqae056/7682253))**
-- **[Evolutionary study of molecular patterns of SARS-CoV-2]([#](https://journals.asm.org/doi/10.1128/jvi.01404-23))**
-- **[Evolutionary study of SARS-CoV-2 Delta variant in Brazil]([#](https://journals.asm.org/doi/10.1128/spectrum.02641-21))**
-- **[ViralFlow: A Versatile Automated Workflow for SARS-CoV-2 Genome Assembly]([#](https://www.mdpi.com/1999-4915/14/2/217))**
+- **[Machine Learning in Biological Data](https://www.medrxiv.org/content/10.1101/2024.08.09.24310239v1)**
+- **[ViralFlow v1.0—a computational workflow for viral genomic surveillance](https://academic.oup.com/nargab/article/6/2/lqae056/7682253)**
+- **[Evolutionary study of molecular patterns of SARS-CoV-2](https://journals.asm.org/doi/10.1128/jvi.01404-23)**
+- **[Evolutionary study of SARS-CoV-2 Delta variant in Brazil](https://journals.asm.org/doi/10.1128/spectrum.02641-21)**
+- **[ViralFlow: A Versatile Automated Workflow for SARS-CoV-2 Genome Assembly](https://www.mdpi.com/1999-4915/14/2/217)**
 
 
 ---
