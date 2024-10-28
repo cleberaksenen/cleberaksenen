@@ -7,9 +7,9 @@ I'm passionate about uncovering biological insights through data and currently w
 ---
 
 ### 🔬 About Me
-- 🧬 Currently working on pathogen genomic surveillance at **Fiocruz**
+- 🧬 Currently working on data science, bioestatistics and bioinformatician at **Fiocruz**
 - 👥 Open to collaborations in bioinformatics, computational biology, and data analysis
-- 🌱 Constantly exploring new methods in **NGS analysis** and **bioinformatics automation**
+- 🌱 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **bioinformatics automation**
 
 ---
 
