@@ -1,5 +1,7 @@
 👨‍🔬 Cleber Aksenen
+
 🌐 Bioinformatician | Biological Big Data | Machine Learning Scientist
+
 Dedicated to leveraging computational tools and advanced data analysis to uncover insights in molecular biology. Currently contributing to Fiocruz Genomic Surveillance, focusing on pathogen monitoring and genomic data interpretation. Open to collaborations that bridge bioinformatics, data science, and molecular biology.
 
 🔬 Professional Highlights
