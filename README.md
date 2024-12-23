@@ -1,26 +1,45 @@
-👨‍🔬 Cleber Aksenen
+## 🌐 Bioinformatician | Big Data | Machine Learning Scientist
 
-🌐 Bioinformatician | Biological Big Data | Machine Learning Scientist
+I'm passionate about uncovering biological insights through data and currently working with **Fiocruz Genomic Surveillance** to track and understand pathogens at the molecular level. I'm always eager to connect and collaborate with bioinformaticians, programmers, and biological scientists!
 
-Dedicated to leveraging computational tools and advanced data analysis to uncover insights in molecular biology. Currently contributing to Fiocruz Genomic Surveillance, focusing on pathogen monitoring and genomic data interpretation. Open to collaborations that bridge bioinformatics, data science, and molecular biology.
+---
 
-🔬 Professional Highlights
-Current Role: Bioinformatician and Data Analyst at Fiocruz, specializing in genomic surveillance and bioinformatics-driven automation.
-Expertise: Statistical modeling, machine learning, and high-throughput sequencing (NGS) analysis.
-Collaborative Projects: Actively engaged in interdisciplinary collaborations within computational biology, bioinformatics, and epidemiology.
-Research Interests: Molecular evolution, genomic epidemiology, and development of workflows for pathogen surveillance.
-🛠️ Technologies & Tools
-<div style="display: flex; flex-wrap: wrap;"> <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-303C4D?style=for-the-badge&logo=snakemake&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
-📊 GitHub Stats
+### 🔬 About Me
+- 🧬 Currently working on data science, bioestatistics and bioinformatician at **Fiocruz**
+- 👥 Open to collaborations in bioinformatics, computational biology, and data analysis
+- 🌱 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **bioinformatics automation**
 
-📄 Recent Publications
-Machine Learning in Biological Data
-ViralFlow v1.0—a computational workflow for viral genomic surveillance
-Evolutionary study of molecular patterns of SARS-CoV-2
-SARS-CoV-2 Delta Variant Evolution in Brazil
-ViralFlow: Workflow for SARS-CoV-2 Genome Assembly
-📫 Connect With Me
+---
 
+### 📫 Connect with Me
+[![Website](https://img.shields.io/badge/Website-282C34?style=for-the-badge&logo=website&logoColor=white)](https://cleberaksenen.github.io/meu-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-aksenen-bioinformatics)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bioinfo.py/)
+
+---
+
+### 📊 GitHub Stats
+![Cleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberaksenen&show_icons=true&theme=cobalt)
+
+---
+
+## 🛠️ Technologies & Tools
+<div style="display: flex; flex-wrap: wrap;">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
+</div>
+
+### 📝 Latest Scientific Works
+- **[Machine Learning in Biological Data](https://www.medrxiv.org/content/10.1101/2024.08.09.24310239v1)**
+- **[ViralFlow v1.0—a computational workflow for viral genomic surveillance](https://academic.oup.com/nargab/article/6/2/lqae056/7682253)**
+- **[Evolutionary study of molecular patterns of SARS-CoV-2](https://journals.asm.org/doi/10.1128/jvi.01404-23)**
+- **[Evolutionary study of SARS-CoV-2 Delta variant in Brazil](https://journals.asm.org/doi/10.1128/spectrum.02641-21)**
+- **[ViralFlow: A Versatile Automated Workflow for SARS-CoV-2 Genome Assembly](https://www.mdpi.com/1999-4915/14/2/217)**
 ---
 
 ### 🌌 "Trying to understand life in bytes"
