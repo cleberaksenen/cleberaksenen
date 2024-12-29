@@ -5,9 +5,9 @@ I'm passionate about uncovering biological insights through data and currently w
 ---
 
 ### 🔬 About Me
-- 🧬 Currently working on data science, statistics and bioinformatician
+- 💻🧬🌱 Currently working on data science, statistics and bioinformatician
 - 👥 Open to collaborations in data analysis, data scientistsm bioinformatics and computational biology 
-- 🌱 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **bioinformatics automation**
+- 🤖 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **bioinformatics automation**
 
 ---
 
