@@ -1,13 +1,13 @@
-## 🌐 Bioinformatician | Big Data | Machine Learning Scientist
+## 🌐 AI & Data Science Engineer | Big Data
 
-I'm passionate about uncovering biological insights through data and currently working with **Fiocruz Genomic Surveillance** to track and understand pathogens at the molecular level. I'm always eager to connect and collaborate with bioinformaticians, programmers, and biological scientists!
+Experienced AI & Data Science Engineer with a strong background in Bioloical Data, Data Analysis, and Machine Learning. Skilled in designing and optimizing data pipelines, implementing scalable architectures, and developing machine learning models for real-world applications. Proficient in ETL processes, distributed computing, and cloud-based solutions, ensuring efficient data processing and model deployment. Passionate about leveraging data-driven insights to drive innovation and business intelligence.
 
 ---
 
 ### 🔬 About Me
 - 💻🧬🌱 Currently working on data science, statistics and bioinformatician
-- 👥 Open to collaborations in data analysis, data scientistsm bioinformatics and computational biology 
-- 🤖 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **bioinformatics automation**
+- 👥 Open to collaborations in data analysis, data scientist and computational biology 
+- 🤖 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **data automation**
 
 ---
 
