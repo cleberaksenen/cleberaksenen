@@ -1,6 +1,8 @@
-## 🌐 AI & Data Science Engineer | Big Data
+## 🌐 Data Analyst | Big Data | Bioinformatician
 
-Experienced AI & Data Science Engineer with a strong background in Bioloical Data, Data Analysis, and Machine Learning. Skilled in designing and optimizing data pipelines, implementing scalable architectures, and developing machine learning models for real-world applications. Proficient in ETL processes, distributed computing, and cloud-based solutions, ensuring efficient data processing and model deployment. Passionate about leveraging data-driven insights to drive innovation and business intelligence.
+Data and BI Analyst with over 4 years of experience in ETL, data modeling, dashboard development, and predictive analysis. Strong expertise in Power BI (DAX, modeling, visualizations), SQL (MySQL, PostgreSQL, MS-SQL, HIVE), Python/R, and agile methodologies (Scrum, Kanban), applying these tools to support decision-making. I have experience in process automation, building data pipelines, and integration, ensuring information accessibility.
+
+My work includes query optimization for handling large volumes of data, as well as experience with Spark, Hadoop, HDFS, and Databricks. My focus is on monitoring data quality, identifying inconsistencies, and proposing improvements, alongside developing statistical and predictive models to guide decisions. I hold a Bachelor's and Master's degree from the Federal University of Ceara, with projects focused on the application of statistical methods and machine learning in biological data. I aim to apply my experience to generate clear and innovative results.
 
 ---
 
@@ -28,6 +30,7 @@ Experienced AI & Data Science Engineer with a strong background in Bioloical Dat
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Airflow" src="https://img.shields.io/badge/Airflow-0172B1?style=for-the-badge&logo=apache-airflow&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
