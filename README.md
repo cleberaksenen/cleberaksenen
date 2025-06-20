@@ -15,7 +15,7 @@ My work includes query optimization for handling large volumes of data, as well 
 
 ### 📫 Connect with Me
 [![Website](https://img.shields.io/badge/Website-282C34?style=for-the-badge&logo=website&logoColor=white)](https://cleberaksenen.github.io/meu-site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-aksenen-datascience/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-aksenen-datascience/)
 
 ---
 
