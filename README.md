@@ -1,22 +1,21 @@
-## 🌐 Data Analyst | Big Data | Bioinformatician
+## 🌐 Data Sientist | Data/BI Analyst
 
-Data and BI Analyst with over 4 years of experience in ETL, data modeling, dashboard development, and predictive analysis. Strong expertise in Power BI (DAX, modeling, visualizations), SQL (MySQL, PostgreSQL, MS-SQL, HIVE), Python/R, and agile methodologies (Scrum, Kanban), applying these tools to support decision-making. I have experience in process automation, building data pipelines, and integration, ensuring information accessibility.
+Data Scientist and BI Analyst with over 4 years of experience in ETL, data modeling, dashboard development, and predictive analysis. Strong expertise in Power BI (DAX, modeling, visualizations), SQL (MySQL, PostgreSQL, MS-SQL, HIVE), Python/R, and agile methodologies (Scrum, Kanban), applying these tools to support decision-making. I have experience in process automation, building data pipelines, and integration, ensuring information accessibility.
 
-My work includes query optimization for handling large volumes of data, as well as experience with Spark, Hadoop, HDFS, and Databricks. My focus is on monitoring data quality, identifying inconsistencies, and proposing improvements, alongside developing statistical and predictive models to guide decisions. I hold a Bachelor's and Master's degree from the Federal University of Ceara, with projects focused on the application of statistical methods and machine learning in biological data. I aim to apply my experience to generate clear and innovative results.
+My work includes query optimization for handling large volumes of data, as well as experience with Spark, Hadoop, HDFS, and Databricks. My focus is on monitoring data quality, identifying inconsistencies, and proposing improvements, alongside developing statistical and predictive models to guide decisions. I hold a Bachelor's and Master's degree from the Federal University of Ceara, with projects focused on the application of statistical methods and machine learning in medical data. I aim to apply my experience to generate clear and innovative results.
 
 ---
 
 ### 🔬 About Me
-- 💻🧬🌱 Currently working on data science, statistics and bioinformatician
+- 💻🧬 Currently working on data science, statistics and bioinformatician
 - 👥 Open to collaborations in data analysis, data scientist and computational biology 
-- 🤖 Constantly exploring new methods in **Machine learning models**, **NGS analysis** and **data automation**
+- 🤖 Constantly exploring new methods in **Machine learning models**, **Data modelling** and **Automation pipelines**
 
 ---
 
 ### 📫 Connect with Me
 [![Website](https://img.shields.io/badge/Website-282C34?style=for-the-badge&logo=website&logoColor=white)](https://cleberaksenen.github.io/meu-site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-aksenen-bioinformatics)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bioinfo.py/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-aksenen-datascience/))
 
 ---
 
