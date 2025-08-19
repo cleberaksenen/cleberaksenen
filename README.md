@@ -1,13 +1,16 @@
 ## 🌐 Data Sientist | Data/BI Analyst
 
-Data Scientist and BI Analyst with over 4 years of experience in ETL, data modeling, dashboard development, and predictive analysis. Strong expertise in Power BI (DAX, modeling, visualizations), SQL (MySQL, PostgreSQL, MS-SQL, HIVE), Python/R, and agile methodologies (Scrum, Kanban), applying these tools to support decision-making. I have experience in process automation, building data pipelines, and integration, ensuring information accessibility.
+Data Scientist and BI Analyst with over 4 years of experience in ETL, data modeling, dashboard development, and predictive analytics. Currently working as a Data and Process Analyst at Tecla T/Hapvida, where I lead and support educational and innovation projects by applying data-driven methodologies to optimize processes and decision-making.
 
-My work includes query optimization for handling large volumes of data, as well as experience with Spark, Hadoop, HDFS, and Databricks. My focus is on monitoring data quality, identifying inconsistencies, and proposing improvements, alongside developing statistical and predictive models to guide decisions. I hold a Bachelor's and Master's degree from the Federal University of Ceara, with projects focused on the application of statistical methods and machine learning in medical data. I aim to apply my experience to generate clear and innovative results.
+I have strong expertise in Power BI (DAX, modeling, advanced visualizations), SQL (MySQL, PostgreSQL, MS-SQL, HIVE), Python/R, and agile methodologies (Scrum, Kanban). My experience includes process automation, data pipeline development, and system integration, ensuring reliable and accessible information across different business units.
+
+My work also covers query optimization for large-scale datasets and experience with Spark, Hadoop, HDFS, and Databricks. I focus on monitoring data quality, identifying inconsistencies, and designing improvements, in addition to developing statistical and predictive models that support strategic decisions.
 
 ---
 
 ### 🔬 About Me
-- 💻🧬 Currently working on data science, statistics and bioinformatician
+- 💻📊 Currently working on data science, statistics and bioinformatician
+- 💻🧬 Experience working with biological data modeling and bioinformatics
 - 👥 Open to collaborations in data analysis, data scientist and computational biology 
 - 🤖 Constantly exploring new methods in **Machine learning models**, **Data modelling** and **Automation pipelines**
 
